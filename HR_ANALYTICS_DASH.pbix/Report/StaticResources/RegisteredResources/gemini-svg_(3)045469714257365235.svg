@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Bar Chart Bars -->
+  <rect x="30" y="68" width="26" height="108" rx="5" fill="#5bb1f7"/>
+  <rect x="72" y="98" width="26" height="78" rx="5" fill="#3b95f2"/>
+  <rect x="114" y="126" width="26" height="50" rx="5" fill="#1d68b8"/>
+  <!-- Downward Trend Line & Arrowhead -->
+  <polyline points="38,32 78,88 112,62 162,116" fill="none" stroke="#eb3854" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <polygon points="174,94 174,136 132,136" fill="#eb3854"/>
+</svg>

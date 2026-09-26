@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Rounded Warning Triangle -->
+  <path d="M100 26 C106 26 112 31 116 38 L186 148 C191 156 191 165 186 172 C181 179 173 182 164 182 L36 182 C27 182 19 179 14 172 C9 165 9 156 14 148 L84 38 C88 31 94 26 100 26 Z" fill="#e93856"/>
+  <!-- Exclamation Mark -->
+  <rect x="94" y="68" width="12" height="52" rx="6" fill="#ffffff"/>
+  <circle cx="100" cy="146" r="8" fill="#ffffff"/>
+</svg>

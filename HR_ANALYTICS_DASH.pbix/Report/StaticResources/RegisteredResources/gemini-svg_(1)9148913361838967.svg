@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Left Side Person -->
+  <circle cx="44" cy="78" r="22" fill="#54cf94"/>
+  <path d="M20 146 C20 116 32 102 50 102 C58 102 64 106 70 112 C65 120 62 132 62 146 Z" fill="#54cf94"/>
+  <!-- Right Side Person -->
+  <circle cx="156" cy="78" r="22" fill="#54cf94"/>
+  <path d="M180 146 C180 116 168 102 150 102 C142 102 136 106 130 112 C135 120 138 132 138 146 Z" fill="#54cf94"/>
+  <!-- Center Main Person -->
+  <circle cx="100" cy="60" r="28" fill="#00965e"/>
+  <path d="M56 150 C56 114 75 96 100 96 C125 96 144 114 144 150 C144 153 141 156 138 156 L62 156 C59 156 56 153 56 150 Z" fill="#00965e"/>
+</svg>

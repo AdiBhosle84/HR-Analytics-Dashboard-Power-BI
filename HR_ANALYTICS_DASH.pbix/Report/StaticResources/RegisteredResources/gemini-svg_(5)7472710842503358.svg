@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Silhouette Profile -->
+  <path d="M114 24 C72 24 46 50 46 90 C46 108 52 118 56 124 L54 138 C54 140 50 142 46 144 L44 150 L58 156 L58 184 L126 184 L126 154 C158 148 170 120 170 90 C170 50 148 24 114 24 Z" fill="#08264a"/>
+  <!-- Experience Gear inside Mind -->
+  <g transform="translate(114, 88)">
+    <circle cx="0" cy="0" r="18" fill="#ffffff"/>
+    <circle cx="0" cy="0" r="10" fill="#1976d2"/>
+    <g stroke="#ffffff" stroke-width="8" stroke-linecap="round">
+      <line x1="0" y1="-26" x2="0" y2="26"/>
+      <line x1="-26" y1="0" x2="26" y2="0"/>
+      <line x1="-18" y1="-18" x2="18" y2="18"/>
+      <line x1="-18" y1="18" x2="18" y2="-18"/>
+    </g>
+    <circle cx="0" cy="0" r="8" fill="#08264a"/>
+  </g>
+</svg>

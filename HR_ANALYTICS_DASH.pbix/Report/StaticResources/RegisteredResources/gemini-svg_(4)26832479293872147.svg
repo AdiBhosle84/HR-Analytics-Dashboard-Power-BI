@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- Main Blue Circular Badge -->
+  <circle cx="100" cy="100" r="94" fill="#0072d8"/>
+  <!-- Left Member -->
+  <circle cx="60" cy="82" r="14" fill="#ffffff"/>
+  <path d="M40 128 C40 108 50 100 64 100 C70 100 76 103 81 108 C78 114 76 121 76 128 Z" fill="#ffffff"/>
+  <!-- Center Member -->
+  <circle cx="98" cy="70" r="16" fill="#ffffff"/>
+  <path d="M76 128 C76 106 87 94 102 94 C117 94 128 106 128 128 Z" fill="#ffffff"/>
+  <!-- Clock Sub-Badge -->
+  <circle cx="134" cy="134" r="36" fill="#ffffff"/>
+  <circle cx="134" cy="134" r="26" fill="#0072d8"/>
+  <polyline points="134,117 134,134 148,134" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
